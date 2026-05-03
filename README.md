@@ -1,7 +1,7 @@
 # air-steam
 Tradução pt-br de AIR - Versão Steam.
 
-<img width="920" height="430" alt="header_2x" src="https://github.com/user-attachments/assets/f5aa8e5c-7f16-45db-b9f3-a6b57585c9a8" />
+<img alt="header_2x" src="https://github.com/user-attachments/assets/f5aa8e5c-7f16-45db-b9f3-a6b57585c9a8" />
 
 <h3>Ela está esperando no ar</h3>
 <p>Nesta página você poderá acompanhar o progresso de port da tradução da Visual Novel <a href="https://vndb.org/v36" target="_blank"> AIR</a>, lançada pela Key em 2000. Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p>
@@ -12,16 +12,12 @@ Tradução pt-br de AIR - Versão Steam.
 <p>Port geral da tradução<br/>[▓▓░░░░░░░░] 20%</p>
 <br/>
 
-<img width="1600" height="900" alt="A1" src="https://github.com/user-attachments/assets/2debeaad-54fb-41d4-9959-8f557c4e6f22" />
-
-<img width="1600" height="900" alt="A2" src="https://github.com/user-attachments/assets/0eff4297-3145-4bf7-bce9-c78ee96423b2" />
-
-<img width="1600" height="900" alt="A3" src="https://github.com/user-attachments/assets/36c1e6b0-fd53-48fc-aceb-54b7d4fb693e" />
-
-<img width="1600" height="900" alt="A4" src="https://github.com/user-attachments/assets/8e261c4f-01e7-491b-a647-02c7fe7bbace" />
-
-<img width="1600" height="900" alt="A5" src="https://github.com/user-attachments/assets/12d98eef-d489-4245-a943-5452e19f97b9" />
-
+<img alt="A1" src="https://github.com/user-attachments/assets/2debeaad-54fb-41d4-9959-8f557c4e6f22" />
+<img alt="A2" src="https://github.com/user-attachments/assets/0eff4297-3145-4bf7-bce9-c78ee96423b2" />
+<img alt="A3" src="https://github.com/user-attachments/assets/36c1e6b0-fd53-48fc-aceb-54b7d4fb693e" />
+<img alt="A4" src="https://github.com/user-attachments/assets/8e261c4f-01e7-491b-a647-02c7fe7bbace" />
+<img alt="A5" src="https://github.com/user-attachments/assets/12d98eef-d489-4245-a943-5452e19f97b9" />
+<br/>
 
 <h3>Outras versões</h3>
 <p>Para informações sobre as traduções de outras versões, confira os links abaixo:</p>
