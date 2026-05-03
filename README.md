@@ -9,15 +9,12 @@ Tradução pt-br de AIR - Versão Steam.
 <br/>
 
 <h3>Progresso</h3>
-![Progresso](https://img.shields.io/badge/Progresso-70%25-brightgreen)
-![Progresso](https://geps.dev/progress/75)
-<progress value="70" max="100"></progress> 70%
-<div style="width: 100%; background-color: #e0e0e0; border-radius: 4px;">
-  <div style="width: 75%; background-color: #4caf50; padding: 3px 0; border-radius: 4px; text-align: center; color: white; font-size: 12px; font-family: sans-serif;">
-    75% Completo
-  </div>
-</div>
+# Status do Projeto
+![Barra](https://img.shields.io/badge/Progresso-75%25-green)
 <br/>
+
+<img src="https://progress-bar.dev/75/" alt="Progresso">
+
 
 <h3>Outras versões</h3>
 <p>Para informações sobre as traduções de outras versões, confira os links abaixo:</p>
