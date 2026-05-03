@@ -12,6 +12,13 @@ Tradução pt-br de AIR - Versão Steam.
 <p>Port geral da tradução<br/>[▓▓░░░░░░░░] 20%</p>
 <br/>
 
+<img width="1600" height="900" alt="A5" src="https://github.com/user-attachments/assets/12d98eef-d489-4245-a943-5452e19f97b9" />
+<img width="1600" height="900" alt="A4" src="https://github.com/user-attachments/assets/8e261c4f-01e7-491b-a647-02c7fe7bbace" />
+<img width="1600" height="900" alt="A3" src="https://github.com/user-attachments/assets/36c1e6b0-fd53-48fc-aceb-54b7d4fb693e" />
+<img width="1600" height="900" alt="A2" src="https://github.com/user-attachments/assets/0eff4297-3145-4bf7-bce9-c78ee96423b2" />
+<img width="1600" height="900" alt="A1" src="https://github.com/user-attachments/assets/2debeaad-54fb-41d4-9959-8f557c4e6f22" />
+
+
 <h3>Outras versões</h3>
 <p>Para informações sobre as traduções de outras versões, confira os links abaixo:</p>
 <p><a href="https://kikachangames.github.io/air/">AIR - Standard edition</a></p>
