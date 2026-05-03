@@ -19,7 +19,7 @@ Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p
 <img alt="A3" src="https://github.com/user-attachments/assets/36c1e6b0-fd53-48fc-aceb-54b7d4fb693e" />
 <img alt="A4" src="https://github.com/user-attachments/assets/8e261c4f-01e7-491b-a647-02c7fe7bbace" />
 <img alt="A5" src="https://github.com/user-attachments/assets/12d98eef-d489-4245-a943-5452e19f97b9" />
-<br/>
+<br/><br/>
 
 <h3>Outras versões</h3>
 <p>Para informações sobre as traduções de outras versões, confira os links abaixo:</p>
