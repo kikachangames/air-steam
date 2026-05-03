@@ -8,7 +8,9 @@ Tradução pt-br de AIR - Versão Steam.
 <br/>
 
 <h3>Progresso</h3>
+![Progresso](https://img.shields.io/badge/Progresso-70%25-brightgreen)
 <progress value="70" max="100"></progress> 70%
+<br/>
 
 <p>Para informações sobre as traduções de outras versões, confira os links abaixo:</p>
 <p><a href="https://kikachangames.github.io/air/">AIR - Standard edition</a></p>
