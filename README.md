@@ -8,11 +8,9 @@ Tradução pt-br de AIR - Versão Steam.
 <br/>
 
 <h3>Progresso</h3>
-# Status do Projeto
-![Barra](https://img.shields.io/badge/Progresso-75%25-green)
+**Progresso: [▓▓▓▓▓▓▓▓▓▓░░░░░] 70%**
 <br/>
 
-<img src="https://progress-bar.dev/75/" alt="Progresso">
 
 
 <h3>Outras versões</h3>
