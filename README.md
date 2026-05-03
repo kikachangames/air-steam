@@ -22,17 +22,17 @@ Tradução pt-br de AIR - Versão Steam.
 
 <div>
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/air/manolo.png">
+<img src="https://kikachangames.github.io/air/manolo.png" width="80">
 </div>
 <div style="display:inline-block;">
-<h3>Manolo-chan</h3>
+<p><b>Manolo-chan</b></p>
 <p>Líder de projeto, tradução e edição de imagens.</p>
 </div>
 <br/>
   
 <div>
 <div style="display:inline-block;vertical-align:top;">
-<img id="thumb" src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png" width="80">
 </div>
 <div style="display:inline-block;">
 <p><b>0Mateus</b></p>
@@ -42,7 +42,7 @@ Tradução pt-br de AIR - Versão Steam.
 
 <div>
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/air/hin.png">
+<img src="https://kikachangames.github.io/air/hin.png" width="80">
 </div>
 <div style="display:inline-block;">
 <p><b>Hinrong</b></p>
