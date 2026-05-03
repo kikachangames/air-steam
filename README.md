@@ -1,3 +1,4 @@
+<body>
 # air-steam
 Tradução pt-br de AIR - Versão Steam.
 
@@ -21,3 +22,4 @@ Tradução pt-br de AIR - Versão Steam.
 <p>Para informações sobre as traduções de outras versões, confira os links abaixo:</p>
 <p><a href="https://kikachangames.github.io/air/">AIR - Standard edition</a></p>
 <p></p><a href="https://kikachangames.github.io/air/psp/">AIR - PSP</a></p>
+</body>
