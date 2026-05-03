@@ -9,6 +9,10 @@
 <p>Port geral da tradução<br/>[▓▓░░░░░░░░] 20%</p>
 <br/>
 
+<h3>Lançamento</h3>
+<p>A ser anunciado.</p>
+<br/>
+
 <img alt="A1" src="https://github.com/user-attachments/assets/2debeaad-54fb-41d4-9959-8f557c4e6f22" />
 <img alt="A2" src="https://github.com/user-attachments/assets/0eff4297-3145-4bf7-bce9-c78ee96423b2" />
 <img alt="A3" src="https://github.com/user-attachments/assets/36c1e6b0-fd53-48fc-aceb-54b7d4fb693e" />
@@ -18,8 +22,8 @@
 
 <h3>Outras versões</h3>
 <p>Para informações sobre as traduções de outras versões, confira os links abaixo:</p>
-<p><a href="https://kikachangames.github.io/air/">AIR - Standard edition</a></p>
-<p><a href="https://kikachangames.github.io/air/psp/">AIR - PSP</a></p>
+<p>🏷️<a href="https://kikachangames.github.io/air/">AIR - Standard edition</a></p>
+<p>🏷️<a href="https://kikachangames.github.io/air/psp/">AIR - PSP</a></p>
 <br/>
 
 <h3>Equipe</h3>
