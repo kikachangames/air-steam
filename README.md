@@ -22,42 +22,46 @@ Tradução pt-br de AIR - Versão Steam.
 
 <div>
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/air/manolo.png" width="130">
+<img src="https://kikachangames.github.io/air/manolo.png" width="160">
 </div>
 <div style="display:inline-block;">
 <p><b>Manolo-chan</b></p>
 <p>Líder de projeto, tradução e edição de imagens.</p>
 </div>
 <br/>
-  
-<div>
-<div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png" width="130">
-</div>
-<div style="display:inline-block;">
-<p><b>0Mateus</b></p>
-<p>Rom hacking, revisão e edição de imagens.</p>
-</div>
-<br/>
 
 <div>
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/air/hin.png" width="130">
+<img src="https://kikachangames.github.io/air/hin.png" width="160">
 </div>
 <div style="display:inline-block;">
 <p><b>Hinrong</b></p>
-<p>Quality check.</p>
+<p>Ferramentas e suporte técnico.</p>
 </div>
 <br/>
+  
+<div>
+<div style="display:inline-block;vertical-align:top;">
+<img src="https://kikachangames.github.io/higanbana2/0mateus.png" width="160">
+</div>
+<div style="display:inline-block;">
+<p><b>0Mateus</b></p>
+<p>Revisão e controle de qualidade.</p>
+</div>
+<br/>
+
+
 
 
 <h3>Agradecimentos</h3>
 
-<p><a href="https://gaogaotranslation.wordpress.com/" target="_blank"> Gao Gao Translations</a></p>
-<p><a href="https://key.visualarts.gr.jp/" target="_blank"> Key/Visual Arts</a></p>
-<p><a href="https://taiyakiclub.wordpress.com/" target="_blank"> Taiyaki Club</a></p>
-<p><a href="https://winter-confetti.blogspot.com/" target="_blank"> Winter Confetti</a></p>
-
+<a href="https://github.com/G2-Games/lbee-utils/" target="blank">G2-Games</a><br/>
+<a href="https://gaogaotranslation.wordpress.com/" target="_blank"> Gao Gao Translations</a><br/>
+<a href="https://key.visualarts.gr.jp/" target="_blank"> Key/Visual Arts</a><br/>
+<a href="https://taiyakiclub.wordpress.com/" target="_blank"> Taiyaki Club</a><br/>
+<a href="https://discord.gg/fWyEeGva9Y/" target="blank">Visual Novel Android Brasil</a><br/>
+<a href="https://github.com/wetor/LuckSystem" target="blank">wetor</a><br/>
+<a href="https://winter-confetti.blogspot.com/" target="_blank"> Winter Confetti</a><br/>
 <br/>
 
 <h3>Download</h3>
