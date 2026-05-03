@@ -8,8 +8,8 @@ Tradução pt-br de AIR - Versão Steam.
 <br/>
 
 <h3>Progresso</h3>
-<p>Capítulo do Primeiro Céu: [▓▓▓▓▓▓░░░░] 60%<br/>
-Port geral da tradução:   [▓▓░░░░░░░░] 20%</p>
+<p>Capítulo do Primeiro Céu<br/>[▓▓▓▓▓▓░░░░] 60%</p>
+<p>Port geral da tradução<br/>[▓▓░░░░░░░░] 20%</p>
 <br/>
 
 
