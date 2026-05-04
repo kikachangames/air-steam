@@ -23,8 +23,8 @@ Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p
 
 <h3>Outras versões</h3>
 <p>Para informações sobre as traduções de outras versões, confira os links abaixo:</p>
-<p>🏷️<a href="https://kikachangames.github.io/air/">AIR - Standard Edition</a></p>
-<p>🏷️<a href="https://kikachangames.github.io/air/psp/">AIR - PSP</a></p>
+<p>🏷️<a href="https://kikachangames.github.io/air/">AIR (Standard Edition)</a></p>
+<p>🏷️<a href="https://kikachangames.github.io/air/psp/">AIR (PSP)</a></p>
 <br/>
 
 <h3>Equipe</h3>
