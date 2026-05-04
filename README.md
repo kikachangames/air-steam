@@ -11,7 +11,7 @@ Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p
 <p>Port geral da tradução<br/>[▓▓░░░░░░░░] 20%</p>
 <br/>
 
-<h3>Lançamento</h3>
+<h3>☀️Lançamento</h3>
 <p>A ser anunciado.</p>
 <br/>
 
