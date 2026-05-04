@@ -1,6 +1,4 @@
-<img src="https://img.shields.io/badge/Nakige-e91e63" alt="Nakige">
-<img src="https://img.shields.io/badge/Slice%20of%20Life-87CEEB" alt="Slice of Life">
-<img src="https://img.shields.io/badge/Realismo%20Fant%C3%A1stico-9c27b0" alt="Realismo Fantástico">
+<img src="https://img.shields.io/badge/Nakige-e91e63" alt="Nakige"> <img src="https://img.shields.io/badge/Slice%20of%20Life-87CEEB" alt="Slice of Life"> <img src="https://img.shields.io/badge/Realismo%20Fant%C3%A1stico-9c27b0" alt="Realismo Fantástico">
 
 <img alt="header_2x" src="https://github.com/user-attachments/assets/f5aa8e5c-7f16-45db-b9f3-a6b57585c9a8" />
 
