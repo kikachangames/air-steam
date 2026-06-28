@@ -8,7 +8,7 @@ Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p
 
 <h3>Progresso</h3>
 <p>Capítulo do Primeiro Céu<br/>[▓▓▓▓▓▓▓▓▓▓] 100%</p>
-<p>Port geral da tradução<br/>  [▓▓▓▓░░░░░░] 40%</p>
+<p>Port geral da tradução<br/>  [▓▓▓▓▓░░░░░] 50%</p>
 <br/>
 
 <h3>Lançamento</h3>
@@ -79,5 +79,5 @@ Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p
 <iframe src="https://store.steampowered.com/widget/2983250/?t=A%20falecida%20m%C3%A3e%20de%20Yukito%20deixou-lhe%20um%20boneco%20de%20pano%2C%20uma%20habilidade%20peculiar%20e%20a%20miss%C3%A3o%20de%20encontrar%20a%20%22garota%20dos%20c%C3%A9us%22.%20Sem%20compreender%20o%20desejo%20materno%2C%20Yukito%20viaja%20pelo%20Jap%C3%A3o%20procurando%20em%20v%C3%A3o%20por%20essa%20figura%20m%C3%ADtica.%20Sua%20jornada%20culmina%20em%20uma%20pacata%20cidade%20onde%20o%20ver%C3%A3o%20chega%20e%20seu%20encontro%20com%20a%20jovem%20Misuzu%20d%C3%A1%20in%C3%ADcio%20ao%20curso%20dos%20acontecimentos%20do%20destino." frameborder="0" width="100%" height="190"></iframe>
 
 <hr>
-<p><small>Última atualização: 13/06/2026.</small></p>
+<p><small>Última atualização: 28/06/2026.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
