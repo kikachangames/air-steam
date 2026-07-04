@@ -55,7 +55,7 @@ Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p
 <img src="https://kikachangames.github.io/projetos/img/ashuramage.png" width="160">
 </div>
 <div style="display:inline-block;">
-<p><b>AshuraMage</p></b>
+<p><b>AshuraMage</b></p>
 <p>Edição de vídeo</p>      
 </div>
 <br/>
