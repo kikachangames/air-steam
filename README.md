@@ -49,6 +49,16 @@ Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p
 <p>Ferramentas e suporte técnico.</p>
 </div>
 <br/>
+
+<div>
+<div style="display:inline-block;vertical-align:top;">
+<img src="https://kikachangames.github.io/projetos/img/ashuramage.png" width="160">
+</div>
+<div style="display:inline-block;">
+<p><b>AshuraMage</p></b>
+<p>Edição de vídeo</p>      
+</div>
+<br/>
   
 <div>
 <div style="display:inline-block;vertical-align:top;">
@@ -79,5 +89,5 @@ Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p
 <iframe src="https://store.steampowered.com/widget/2983250/?t=Herdando%20da%20falecida%20m%C3%A3e%20um%20boneco%20de%20pano%2C%20uma%20habilidade%20peculiar%20e%20a%20miss%C3%A3o%20de%20encontrar%20a%20%22garota%20dos%20c%C3%A9us%22%2C%20Yukito%20viaja%20pelo%20Jap%C3%A3o%20em%20uma%20busca%20sem%20sucesso.%20Sua%20jornada%20o%20leva%20a%20uma%20pacata%20cidade%20litor%C3%A2nea%20onde%2C%20com%20a%20chegada%20do%20ver%C3%A3o%2C%20seu%20encontro%20com%20a%20jovem%20Misuzu%20sela%20o%20seu%20destino." frameborder="0" width="100%" height="190"></iframe>
 
 <hr>
-<p><small>Última atualização: 28/06/2026</small></p>
+<p><small>Última atualização: 04/07/2026</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
