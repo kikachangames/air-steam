@@ -8,7 +8,7 @@ Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p
 
 <h3>Progresso</h3>
 <p>Capítulo do Primeiro Céu<br/>[▓▓▓▓▓▓▓▓▓▓] 100%</p>
-<p>Port geral da tradução<br/>  [▓▓▓▓▓░░░░░] 50%</p>
+<p>Port geral da tradução<br/>  [▓▓▓▓▓▓░░░░] 61,54%</p>
 <br/>
 
 <h3>Lançamento</h3>
@@ -56,7 +56,7 @@ Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p
 </div>
 <div style="display:inline-block;">
 <p><b>AshuraMage</b></p>
-<p>Edição de vídeo</p>      
+<p>Edição de vídeo.</p>      
 </div>
 <br/>
   
