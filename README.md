@@ -8,7 +8,7 @@ Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p
 
 <h3>Progresso</h3>
 <p>Capítulo do Primeiro Céu<br/>[▓▓▓▓▓▓▓▓▓▓] 100%</p>
-<p>Port geral da tradução<br/>  [▓▓▓▓▓▓░░░░] 61,54%</p>
+<p>Port geral da tradução<br/>  [▓▓▓▓▓▓░░░░] 65,38%</p>
 <br/>
 
 <h3>Lançamento</h3>
