@@ -8,8 +8,8 @@ Esse projeto é uma iniciativa da Kikachan Games com o apoio da Taiyaki Club.</p
 
 <h3>Progresso</h3>
 <pre>
-<p>Capítulo do Primeiro Céu<br/>[▓▓▓▓▓▓▓▓▓▓] 100%</p>
-<p>Port geral da tradução<br/>  [▓▓▓▓▓▓▓▓▓▓] 100%</p>
+Capítulo do Primeiro Céu  [▓▓▓▓▓▓▓▓▓▓] 100%</p>
+Port geral da tradução    [▓▓▓▓▓▓▓▓▓▓] 100%</p>
 </pre>
 <br/>
 
